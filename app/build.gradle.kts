@@ -1,3 +1,6 @@
+group = "com.example.kpbcomposelib"
+version = "1.0.0"
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
